@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+.lista{
+    list-style: none;
+    padding: 0;
+}
+
+.tituloRollingBank{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+@media all and (max-width: 576px){
+    .carousel-sm-responsive{
+        object-fit: cover;
+        height: 187px;
+    }
+}
